@@ -1,7 +1,7 @@
 #include <pybind11/eigen.h>
 #include <pybind11/pybind11.h>
 #include <pybind11/stl.h>
-#include <Eigen/Core>
+#include </usr/include/eigen3/Eigen/Core>
 #include "murty.hpp"
 
 namespace py = pybind11;

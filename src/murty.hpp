@@ -1,7 +1,7 @@
 // Copyright 2018 Jonatan Olofsson
 #pragma once
 
-#include <Eigen/SparseCore>
+#include </usr/include/eigen3/Eigen/SparseCore>
 #include <algorithm>
 #include <exception>
 #include <iostream>

@@ -1,7 +1,7 @@
 // Copyright 2018 Jonatan Olofsson
 #pragma once
 
-#include <Eigen/Core>
+#include </usr/include/eigen3/Eigen/Core>
 
 namespace lap {
 
